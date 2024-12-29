@@ -1,0 +1,112 @@
+{
+  "sections": [
+    {
+      "section": "Choix de la Semence",
+      "content": "Utiliser des cabosses de variétés améliorées. Semer les fèves au plus tard 4 jours après la récolte.",
+      "questions": [
+        "Quelles variétés de semences de cacao sont recommandées ?",
+        "Quelles cabosses choisir pour planter du cacao ?",
+        "Quand faut-il semer les fèves après la récolte ?",
+        "Pourquoi utiliser des variétés améliorées pour planter du cacao ?"
+      ]
+    },
+    {
+      "section": "Choix et Préparation du Terrain",
+      "content": "Choisir un sol profond, avec une nappe phréatique à plus de 1 mètre de profondeur. Défricher le terrain et couper les grands arbres sous forêt, tout en laissant les arbustes. Un sol favorable aux cacaoyers doit avoir les caractères suivants : bon drainage interne, taux des éléments grossiers inférieur à 50 %, texture sablo-argileuse, profondeur utile égale à 120 cm.",
+      "questions": [
+        "Comment choisir un terrain pour planter du cacao ?",
+        "Quelles sont les caractéristiques d’un sol favorable aux cacaoyers ?",
+        "Pourquoi faut-il laisser des arbustes après le défrichement ?",
+        "Quelle est l’importance d’un bon drainage du sol pour le cacao ?"
+      ]
+    },
+    {
+      "section": "Conduite d'une Pépinière de Cacaoyers",
+      "content": "Le semis direct consiste à semer les fèves directement au champ lors de la création des plantations de cacaoyers. Cette méthode présente de nombreux inconvénients : utilisation d'importantes quantités de semences, attaques incontrôlables (chenilles, rongeurs), forte densité retardant l’entrée en production, risque de destruction des jeunes plants lors du nettoyage, installation plus lente. Pour garantir le succès, produire les plants en pépinière avec de la semence améliorée avant de planter.",
+      "questions": [
+        "Quelles sont les limites du semis direct pour le cacao ?",
+        "Pourquoi produire les plants en pépinière avant de planter les cacaoyers ?",
+        "Comment préparer une pépinière de cacaoyers ?"
+      ]
+    },
+    {
+      "section": "Dispositif et Densité de Plantation",
+      "content": "Planter en lignes avec 3 m entre les lignes et 2,5 m entre les cacaoyers. Densité de plantation : 1320 pieds par hectare. Planter entre mai et juin.",
+      "questions": [
+        "Quelle est la densité de plantation recommandée pour le cacao ?",
+        "Quelle distance respecter entre les cacaoyers lors de la plantation ?",
+        "Quand est-il recommandé de planter les cacaoyers ?"
+      ]
+    },
+    {
+      "section": "Entretien (Désherbage)",
+      "content": "Désherber manuellement tous les trois mois. Effectuer 4 nettoyages par an pour les plantations adultes, et 4 à 6 fois par an pour les jeunes plantations. Possibilité de désherbage chimique à la demande.",
+      "questions": [
+        "Combien de fois par an faut-il désherber une plantation de cacao ?",
+        "Quelle est la fréquence recommandée pour le désherbage manuel des cacaoyers ?",
+        "Peut-on utiliser des produits chimiques pour le désherbage des cacaoyers ?"
+      ]
+    },
+    {
+      "section": "Réglage de l’Ombrage",
+      "content": "Utiliser un ombrage temporaire avec des bananiers et des arbustes pendant la mise en place des cacaoyers. Pour l’ombrage définitif, conserver les arbres naturels présents dans la culture du cacaoyer.",
+      "questions": [
+        "Quels types de plantes sont recommandés pour un ombrage temporaire du cacao ?",
+        "Pourquoi conserver les arbres naturels pour l’ombrage des cacaoyers ?"
+      ]
+    },
+    {
+      "section": "Les Tailles",
+      "content": "Effectuer trois types de tailles :\n- Taille de formation pour aider le jeune cacaoyer à développer sa couronne.\n- Taille d’entretien ou égourmandage pour supprimer les gourmands.\n- Taille de restauration pour enlever l’ancien tronc et favoriser le développement d'un nouveau tronc.",
+      "questions": [
+        "Quels sont les différents types de tailles pour le cacao ?",
+        "Pourquoi effectuer une taille de formation sur un jeune cacaoyer ?",
+        "Qu’est-ce que l’égourmandage et pourquoi est-il important pour les cacaoyers ?"
+      ]
+    },
+    {
+      "section": "Réglage de la Densité",
+      "content": "Supprimer ou remplacer les cacaoyers afin de respecter la densité idéale de 1320 pieds par hectare.",
+      "questions": [
+        "Comment ajuster la densité d’une plantation de cacao ?",
+        "Pourquoi respecter une densité de plantation précise pour le cacao ?"
+      ]
+    },
+    {
+      "section": "Fertilisation",
+      "content": "- Jeune plantation (1 à 2 ans) : Apporter du TSP (100g/pied) deux fois par an.\n- Plantation adulte (Est et Centre) : Apporter le NPK 0-23-19+ (150g/pied) deux fois par an.\n- Plantation adulte (Ouest) : Apporter le NPK 0-23-19+ (200g/pied) deux fois par an.",
+      "questions": [
+        "Quelle fertilisation appliquer pour une jeune plantation de cacao ?",
+        "Quels engrais utiliser pour une plantation de cacao adulte ?",
+        "Combien de fois par an doit-on fertiliser une plantation de cacao ?"
+      ]
+    },
+    {
+      "section": "Traitement Phytosanitaire",
+      "content": "Utiliser des insecticides contre les chenilles, les mirides et les foreurs de tiges en juillet-août et décembre-janvier. Utiliser des fongicides contre la pourriture.",
+      "questions": [
+        "Quels traitements phytosanitaires sont recommandés pour le cacao ?",
+        "Contre quels ravageurs faut-il traiter les cacaoyers ?",
+        "Quand appliquer des insecticides sur les cacaoyers ?"
+      ]
+    },
+    {
+      "section": "Récolte et Activités Post-Récolte",
+      "content": "Récolter les cabosses à maturité et ne pas laisser les cabosses immatures. Ecabossage : Casser les cabosses et extraire les fèves dans les 5 jours après la récolte. Fermentation : Mettre les fèves dans des caisses en bois ou sous des feuilles de bananiers pendant 6 jours. Séchage : Déposer les fèves en couches minces et remuer fréquemment.",
+      "questions": [
+        "Comment récolter les cabosses de cacao ?",
+        "Quelles sont les étapes post-récolte du cacao ?",
+        "Combien de temps dure la fermentation des fèves de cacao ?"
+      ]
+    },
+    {
+      "section": "Conservation et Stockage",
+      "content": "Stocker les fèves dans des magasins étanches et aérés. Mettre les fèves dans des sacs de jute et disposer les sacs sur des palettes.",
+      "questions": [
+        "Comment stocker correctement les fèves de cacao ?",
+        "Pourquoi utiliser des sacs de jute pour conserver les fèves de cacao ?",
+        "Quelle est l’importance d’un stockage aéré pour le cacao ?"
+      ]
+    }
+  ]
+}
